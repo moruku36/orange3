@@ -1,3 +1,11 @@
+# Orange Data Mining
+
+[English](README.md) | [日本語](README.ja.md)
+
+A visual data-mining and machine-learning toolbox with reusable workflows, interactive visualization, and Python components.
+
+---
+
 <p align="center">
     <a href="https://orange.biolab.si/download">
     <img src="https://raw.githubusercontent.com/irgolic/orange3/README-shields/distribute/orange-title.png" alt="Orange Data Mining" height="200">
